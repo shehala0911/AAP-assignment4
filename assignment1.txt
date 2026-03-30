@@ -1,0 +1,8 @@
+1. Github link: https://github.com/psarkerbd/Simple-Calculator
+
+
+a. This Program run on both Windows and Linux operating system by using pycharm,
+anaconda 3 or all other python editor with the python version 3.x
+b. This software is developed by python 3.x
+c. Used tkinter module for the Graphical User Interface
+(written on github readme file, asked chatgpt for help)
