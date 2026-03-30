@@ -1,0 +1,10 @@
+The pass statement is used in coding when a function, class, or some part of the
+program is yet to be implemented. It is used to write the structure of the program first
+and then come back to implement it later. It is also used in collaborative coding, in which
+functions can be defined in advance for other developers to implement.
+However, it is recommended to avoid using pass in cases where some actual code can
+be written. In addition, it is recommended to avoid using pass in cases where errors are
+expected, as it may simply ignore them. Also, it is recommended not to leave functions
+or classes empty and use pass. Instead, it is recommended to use
+NotImplementedError. In addition, it is recommended not to put pass in an infinite loop,
+such as while True, as it may cause an endless loop without producing any output.
